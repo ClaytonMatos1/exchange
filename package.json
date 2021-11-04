@@ -1,0 +1,15 @@
+{
+  "name": "exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "author": "Clayton Matos",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "axios": "^0.24.0"
+  }
+}
